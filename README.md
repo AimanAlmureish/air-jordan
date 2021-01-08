@@ -4,6 +4,6 @@
 
 ### Check my other repos to find different designs!
 
-Lego hero header / Designed by Alisa Alyabyeva https://www.behance.net/goleui
+Lego hero header / Designed by Goran Radeski https://www.behance.net/goleui
 
 A link to the website is https://airJordan-hero.netlify.app/
